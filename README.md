@@ -1,1 +1,2 @@
-# MerveOzalp-Week2-Homework
+
+##Controlled with middleware
